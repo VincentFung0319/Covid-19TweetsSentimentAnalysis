@@ -1,2 +1,2 @@
 # Covid-19TweetsSentimentAnalysis
-A Sentiment analysis of tweets about covid-19
+A Sentiment analysis and exploratory analysis of tweets about covid-19.
